@@ -1,4 +1,4 @@
-# Welcome to KodeKloud Terraform Lab :rocket:
+# Welcome to Terraform Lab :rocket:
 
 This is your Visual Studio Code editor where you will learn and practice about Terraform.
 
@@ -6,13 +6,11 @@ To begin with :tropical_drink: relax and start working on the questions on the l
 
 All the best!! :muscle: 
 
-To open a new terminal Press:
 
-MAC:
+💡 Objectifs :
 
-⌃ + :arrow_up:  + `
+Découvrir les bases de Terraform
 
-Windows:
+Manipuler des ressources cloud via le code
 
-Ctrl + Shift + `
-
+Automatiser la création d'infrastructure
